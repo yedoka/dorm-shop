@@ -3,3 +3,12 @@ body {
     margin: 0;
     box-sizing: border-box;
 }
+
+.main {
+    text-align: center;
+}
+
+.shop-name {
+    padding: 200px;
+    
+}
